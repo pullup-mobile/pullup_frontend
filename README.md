@@ -11,6 +11,10 @@ mkdir flutter_development
 cd flutter_development
 git clone https://github.com/flutter/flutter.git
 ```
+Open flutter_development and navigate to the flutter/bin directory. Open Terminal and run:
+```
+vim ~/.zshrc
+```
 
 
 
