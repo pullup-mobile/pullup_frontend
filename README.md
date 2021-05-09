@@ -4,8 +4,8 @@ Cross-platform mobile application that displays parking lot vacancy using deep l
 
 ## Installation
 1. Install Xcode. Xcode 12 must be installed to use the latest simulators.
-2. Install Android Studio.
-3. 
+3. Install Android Studio.
+4. Install Flutter SDK.
 
 
 
