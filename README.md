@@ -7,7 +7,7 @@ Cross-platform mobile application that displays parking lot vacancy using deep l
 
 
 ## Usage
-macOS is required to compile this project on iOS.
+macOS is required to compile this project on iOS devices.
 
 iPhone 12 Pro Max simulator is required.
 
