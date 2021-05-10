@@ -28,11 +28,15 @@ flutter --version
 7. Download this project by selecting "Code" and "Download ZIP". Extract the ZIP file.
 8. On Android Studio's main page, click "Open an Existing Project".
 9. Navigate to the extracted ZIP file and click "Open".
+```
+View "Usage" section on how to run the application.
+```
 
 ## Usage
 macOS is required to compile this project on iOS devices.
 
 iPhone 12 Pro Max simulator is required.
-
+1. Open iOS Simulator, ensure iPhone 12 Pro Max is being used.
+2. In 
 
 
