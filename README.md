@@ -25,7 +25,7 @@ export PATH=[PATH_TO_FLUTTER_SDK]/flutter/bin:$PATH
 flutter --version
 ```
 6. Open Android Studio and press "Configure". Select "SDK Manager". Select "Plugins" and "Marketplace". Search "Flutter". Click on "Install". Once installed, restart Android Studio.
-
+7. Download this project by selecting "Code" and "Download ZIP".
 
 
 ## Usage
