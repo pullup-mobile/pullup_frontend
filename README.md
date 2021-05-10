@@ -29,7 +29,6 @@ flutter --version
 8. On Android Studio's main page, click "Open an Existing Project".
 9. Navigate to the extracted ZIP file and click "Open".
 
-
 ## Usage
 macOS is required to compile this project on iOS devices.
 
