@@ -18,6 +18,7 @@ vim ~/.zshrc
 
 
 
+
 ## Usage
 macOS is required to compile this project on iOS devices.
 
