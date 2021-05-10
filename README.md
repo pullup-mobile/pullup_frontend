@@ -1,6 +1,7 @@
 # pullup_frontend
 
 Cross-platform mobile application that displays parking lot vacancy using deep learning data.
+
 Part of: https://github.com/pullup-mobile.
 
 ## Installation
