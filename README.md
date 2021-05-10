@@ -19,11 +19,12 @@ Terminal will open an "rc" file. Press "I" to enable Insert mode. Go to the bott
 ```
 export PATH=[PATH_TO_FLUTTER_SDK]/flutter/bin:$PATH
 ```
-"PATH_TO_FLUTTER_SDK" will be the path to flutter repo that was cloned. Press ":" followed by "wq". Press enter.
-5. To ensure flutter has been succesfully installed, run:
+"PATH_TO_FLUTTER_SDK" will be the path to the Flutter repo that was cloned. Press ":" followed by "wq". Press enter.
+5. To ensure Flutter has been succesfully installed, run:
 ```
 flutter --version
 ```
+6. Open Android Studio and press "Configure". Select "SDK Manager". Select "Plugins" and "Marketplace". Search "Flutter". Click on "Install". Once installed, restart Android Studio.
 
 
 
