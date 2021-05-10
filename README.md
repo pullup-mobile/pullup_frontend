@@ -37,6 +37,6 @@ macOS is required to compile this project on iOS devices.
 
 iPhone 12 Pro Max simulator is required.
 1. Open iOS Simulator, ensure iPhone 12 Pro Max is being used.
-2. In 
+2. In Android Studio, navigate to "main.dart". Click run.
 
 
